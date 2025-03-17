@@ -57,7 +57,7 @@ const Events = () => {
       </div>}
       <div className="bg-white p-8">
         <div className="flex flex-col justify-center items-center text-3xl gap-5 font-semibold">
-          <h2 className="text-4xl">We Helped Communities Connect & Flourish</h2>
+          <h2 className="text-4xl items-center">We Helped Communities Connect & Flourish</h2>
           <h2 className="text-blue-500">✦ Upcoming Events</h2>
         </div>
         <div className="flex justify-between items-center p-4 sm:p-10">

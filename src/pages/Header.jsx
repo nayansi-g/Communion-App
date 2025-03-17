@@ -41,7 +41,7 @@ const Header = () => {
           <Link className='hover:text-xl transition duration-300' to='/events'>Events</Link>
           <Link className='hover:text-xl transition duration-300' to='/about'>About</Link>
           <Link className='hover:text-xl transition duration-300' to='/support'>Support</Link>
-          <button className='bg-black text-white px-6 py-2 rounded-full'>
+          <button className='bg-black text-white px-2 py-2 rounded-full'>
             <Link to='/signin'>Sign In</Link>
           </button>
         </div>
