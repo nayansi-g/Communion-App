@@ -24,11 +24,11 @@ const Home = () => {
      
       <div className="flex flex-col lg:flex-row items-center justify-between w-full mt-8 lg:mt-16 gap-5">
       
-        <div className="lg:w-1/2 flex flex-col items-center  lg:items-start text-center lg:text-left p-5">
+        <div className="lg:w-1/2 flex flex-col items-center  lg:items-start text-center lg:text-left">
           <h1 className=" text-xl sm:text-3xl lg:text-4xl font-bold">Unite, Innovate,</h1>
-          <h1 className=" text-xl sm:text-3xl lg:text-4xl font-bold">Connect, Inspire</h1>
-          <h1 className=" text-xl sm:text-3xl lg:text-4xl font-bold">Together</h1>
-          <p className="text-gray-700 mt-4">
+          <h1 className=" text-xl sm:text-3xl lg:text-4xl font-bold">Connect, Inspire Together</h1>
+         
+          <p className="text-gray-700 mt-4 py-5">
             Join us to be part of a community where spirituality meets innovation. Together, we'll
             build a world that's more inclusive, engaging, and connected than ever before!
           </p>
